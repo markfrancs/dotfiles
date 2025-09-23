@@ -1,0 +1,46 @@
+# General purpose
+alias user='echo $USER'
+alias shell='echo $SHELL'
+alias path='echo $PATH'
+alias home='cd $HOME'
+alias cl='clear'
+alias rst='reset'
+alias all='ls -alF'
+alias srczsh='source $HOME/.zshrc'
+alias free='free -htw'
+alias df='df -h'
+alias srt='ln -s'
+
+
+# Git
+alias gcfg='git config --list'
+
+
+# SDKMAN!
+
+
+# Java
+
+
+# Kotlin
+
+
+# Go
+
+
+# Python
+alias py='python3'
+alias pip='pip3'
+
+
+# Rust
+
+
+# Gradle
+
+
+# Docker
+alias lzd='$HOME/.local/bin/lazydocker'
+
+
+# Kubernetes
